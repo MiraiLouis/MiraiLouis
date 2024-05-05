@@ -1,5 +1,6 @@
 ### Hi there👋, Welcome to my page!
 
+Hello!👻 My name is **Louis CHEN**, I am currently a student from CY Tech from Cergy 
 <!--
 **MiraiLouis/MiraiLouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
