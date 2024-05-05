@@ -1,6 +1,8 @@
 ### Hi there👋, Welcome to my page!
 
-Hello!👻 My name is **Louis CHEN**, I am currently a student from CY Tech from Cergy 
+Hello!👻 My name is **Louis CHEN**, I am currently a student in artificial intelligence at CY Tech, Cergy.
+
+I'm passionated about IT💻, engineering⚙, and sciences🔬. These fields fascinate me due to their innovative nature and the problem-solving opportunities they offer.
 <!--
 **MiraiLouis/MiraiLouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
