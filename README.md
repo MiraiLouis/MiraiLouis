@@ -4,4 +4,4 @@ Hello! My name is **Louis CHEN**, I am currently a student in artificial intelli
 
 I'm passionated about IT, engineering, and sciences. These fields fascinate me due to their innovative nature and the problem-solving opportunities they offer.
 
-I'm currently learning various skills to work to succeed in the AI field.
+I'm currently learning various skills to work and succeed in the AI field.
