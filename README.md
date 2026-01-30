@@ -1,9 +1,11 @@
-### Hi there, Welcome to my page!
+Hello! My name is Louis CHEN, I am a graduate AI Engineer from CY Tech (Cergy) and I am currently seeking a full-time position (CDI) in the field of Artificial Intelligence.
 
-Hello! My name is **Louis CHEN**, I am currently a student in artificial intelligence at CY Tech, Cergy.
+I’m passionate about AI, IT, engineering, and sciences. What drives me most is building intelligent systems, solving complex problems, and working on innovative, high-impact projects.
 
-I'm passionated about IT, engineering, and sciences. These fields fascinate me due to their innovative nature and the problem-solving opportunities they offer.
+During my studies and professional experiences, I developed solid skills in machine learning, deep learning, and software engineering, and I’m eager to apply them in a challenging industrial or research-oriented environment.
 
-I'm currently learning various skills to work and succeed in the AI field.
+You can learn more about me on my personal website:
+👉 https://mirailouis.github.io/
 
-You can learn more about me through my personal website: https://mirailouis.github.io/ or contact me on linkedin: https://www.linkedin.com/in/louis-chen-cy/
+Or connect with me on LinkedIn:
+👉 https://www.linkedin.com/in/louis-chen-cy/
