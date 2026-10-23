@@ -5,7 +5,7 @@ I’m passionate about AI, IT, engineering, and sciences. What drives me most is
 During my studies and professional experiences, I developed solid skills in machine learning, deep learning, and software engineering, and I’m eager to apply them in a challenging industrial or research-oriented environment.
 
 You can learn more about me on my personal website:
-👉 https://mirailouis.github.io/
+https://mirailouis.github.io/
 
 Or connect with me on LinkedIn:
-👉 https://www.linkedin.com/in/louis-chen-cy/
+https://www.linkedin.com/in/louis-chen-cy/
